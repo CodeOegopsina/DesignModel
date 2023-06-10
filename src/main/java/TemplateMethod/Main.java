@@ -18,5 +18,7 @@ public class Main {
 
         AbstractDisplay helloWorld1 = new StringDisplay("你好啊 世界牛逼");
         helloWorld1.display();
+
+        System.out.println("测试commitAndPush");
     }
 }
